@@ -1,2 +1,2 @@
 # repo1ntd
-Primer Repositorio para nuevas tegonologias
+Primer Repositorio para Nuevas Tegnologias
